@@ -1,0 +1,25 @@
+{
+  "name": "dir.js",
+  "version": "1.0.0",
+  "description": "A simple static middleware for koa",
+  "main": "static.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobihrbr/dir.git"
+  },
+  "keywords": [
+    "dir",
+    "static",
+    "koa",
+    "serve",
+    "http",
+    "list",
+    "dir.js"
+  ],
+  "author": "tobihrbr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobihrbr/dir/issues"
+  },
+  "homepage": "https://github.com/tobihrbr/dir#readme"
+}
